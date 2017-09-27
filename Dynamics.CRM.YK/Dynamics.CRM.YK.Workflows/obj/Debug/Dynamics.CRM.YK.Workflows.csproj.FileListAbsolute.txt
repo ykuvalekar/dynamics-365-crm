@@ -1,0 +1,12 @@
+C:\Users\ykuvalekar\Documents\Visual Studio 2015\Projects\Dynamics.CRM\Dynamics.CRM.Workflows\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ykuvalekar\Documents\Visual Studio 2015\Projects\Dynamics.CRM\Dynamics.CRM.Workflows\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\ykuvalekar\Documents\Visual Studio 2015\Projects\Dynamics.CRM\Dynamics.CRM.Workflows\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ykuvalekar\Documents\Visual Studio 2015\Projects\Dynamics.CRM\Dynamics.CRM.Workflows\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\ykuvalekar\Documents\Visual Studio 2015\Projects\Dynamics.CRM\Dynamics.CRM.Workflows\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\ykuvalekar\Documents\Visual Studio 2015\Projects\Dynamics.CRM\Dynamics.CRM.Workflows\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\ykuvalekar\Documents\Visual Studio 2015\Projects\Dynamics.CRM\Dynamics.CRM.Workflows\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\ykuvalekar\Documents\Visual Studio 2015\Projects\Dynamics.CRM\Dynamics.CRM.Workflows\obj\Debug\Dynamics.CRM.YK.Workflows.csprojResolveAssemblyReference.cache
+C:\Users\ykuvalekar\Documents\Visual Studio 2015\Projects\Dynamics.CRM\Dynamics.CRM.Workflows\bin\Debug\Dynamics.CRM.YK.Workflows.dll
+C:\Users\ykuvalekar\Documents\Visual Studio 2015\Projects\Dynamics.CRM\Dynamics.CRM.Workflows\bin\Debug\Dynamics.CRM.YK.Workflows.pdb
+C:\Users\ykuvalekar\Documents\Visual Studio 2015\Projects\Dynamics.CRM\Dynamics.CRM.Workflows\obj\Debug\Dynamics.CRM.YK.Workflows.dll
+C:\Users\ykuvalekar\Documents\Visual Studio 2015\Projects\Dynamics.CRM\Dynamics.CRM.Workflows\obj\Debug\Dynamics.CRM.YK.Workflows.pdb
