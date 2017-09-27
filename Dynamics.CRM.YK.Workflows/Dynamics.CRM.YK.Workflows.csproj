@@ -7,8 +7,8 @@
     <ProjectGuid>{2110F684-C277-47E7-B8B9-6F17A579D0CE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Dynamics.CRM.Workflows</RootNamespace>
-    <AssemblyName>Dynamics.CRM.Workflows</AssemblyName>
+    <RootNamespace>Dynamics.CRM.YK.Workflows</RootNamespace>
+    <AssemblyName>Dynamics.CRM.YK.Workflows</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -78,6 +78,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GetActiveProcessSessionCount.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
